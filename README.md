@@ -1,2 +1,2 @@
-# GIT_Y_GITHUB
-Practicando Git
+Nombre: Mateo Santiago Reyes Montaño
+Carrera: Ingenieria en Sistemas
